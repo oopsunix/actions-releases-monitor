@@ -3,7 +3,7 @@
   "dockpeek/dockpeek": "v1.7.3",
   "sergi0g/cup": "v3.6.0",
   "dani-garcia/vaultwarden": "1.37.5",
-  "jeessy2/ddns-go": "v6.17.7",
+  "jeessy2/ddns-go": "v6.17.8",
   "certimate-go/certimate": "v0.4.37",
   "louislam/uptime-kuma": "2.5.9",
   "umami-software/umami": "v3.4.1",
@@ -14,6 +14,6 @@
   "open-webui/open-webui": "v0.13.3",
   "filebrowser/filebrowser": "v2.63.23",
   "cloudreve/Cloudreve": "4.19.1",
-  "HoshinoSuzumi/chronoframe": "v1.1.2",
+  "HoshinoSuzumi/chronoframe": "v1.2.0",
   "Afilmory/Afilmory": "v1.7.0"
 }
